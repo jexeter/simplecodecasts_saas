@@ -1,2 +1,3 @@
-class Contact < ActiveRecord::Bass
+class Contact < ActiveRecord::Base
+    
 end
